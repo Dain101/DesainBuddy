@@ -1,0 +1,262 @@
+[
+  {
+    "id": "01q1",
+    "bab": "01_pengantar_desain_grafis",
+    "soal": "Gambar yang tetap tajam walau diperbesar karena tersusun dari garis dan kurva matematis disebut gambar...",
+    "pilihan": [
+      "Raster",
+      "Vektor",
+      "Bitmap",
+      "Piksel"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Gambar vektor dihitung secara matematis sehingga tidak pecah saat diperbesar. Gambar raster tersusun dari piksel dan bisa pecah."
+  },
+  {
+    "id": "01q2",
+    "bab": "01_pengantar_desain_grafis",
+    "soal": "Untuk hasil cetak, resolusi yang umumnya dianjurkan adalah sekitar...",
+    "pilihan": [
+      "30 dpi",
+      "72 dpi",
+      "300 dpi",
+      "1 dpi"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Untuk cetak umumnya dianjurkan sekitar 300 dpi. Resolusi yang lebih rendah biasanya cukup untuk layar."
+  },
+  {
+    "id": "01q3",
+    "bab": "01_pengantar_desain_grafis",
+    "soal": "Langkah awal yang paling tepat dalam proses desain adalah...",
+    "pilihan": [
+      "Memilih jenis huruf",
+      "Memahami tujuan dan target audiens",
+      "Mengunduh hasil desain",
+      "Menambahkan efek bayangan"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Tujuan dan audiens menentukan semua keputusan desain berikutnya, jadi harus dipahami lebih dulu."
+  },
+  {
+    "id": "01q4",
+    "bab": "01_pengantar_desain_grafis",
+    "soal": "Format file yang mendukung latar belakang transparan adalah...",
+    "pilihan": [
+      "JPG",
+      "PNG",
+      "TXT",
+      "ZIP"
+    ],
+    "jawaban": 1,
+    "penjelasan": "PNG mendukung transparansi sehingga cocok untuk logo dan ikon. JPG tidak mendukung latar transparan."
+  },
+  {
+    "id": "02q1",
+    "bab": "02_elemen_prinsip_desain",
+    "soal": "Prinsip desain yang membuat satu bagian menjadi pusat perhatian disebut...",
+    "pilihan": [
+      "Penekanan (emphasis)",
+      "Repetisi",
+      "Margin",
+      "Resolusi"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Penekanan membuat satu bagian paling menonjol sehingga mata pembaca tahu harus mulai dari mana."
+  },
+  {
+    "id": "02q2",
+    "bab": "02_elemen_prinsip_desain",
+    "soal": "Pembagian elemen yang sama persis di kiri dan kanan sumbu tengah disebut keseimbangan...",
+    "pilihan": [
+      "Simetris",
+      "Asimetris",
+      "Acak",
+      "Kontras"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Keseimbangan simetris membagi elemen sama persis di kedua sisi sumbu tengah."
+  },
+  {
+    "id": "02q3",
+    "bab": "02_elemen_prinsip_desain",
+    "soal": "Memakai warna, bentuk, atau huruf yang sama berulang kali agar desain terasa konsisten adalah prinsip...",
+    "pilihan": [
+      "Kontras",
+      "Pengulangan (repetisi)",
+      "Proporsi",
+      "Ruang"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Pengulangan menjaga konsistensi sehingga desain terasa seperti satu kesatuan."
+  },
+  {
+    "id": "02q4",
+    "bab": "02_elemen_prinsip_desain",
+    "soal": "Manakah yang termasuk elemen desain dasar?",
+    "pilihan": [
+      "Titik, garis, dan bentuk",
+      "Mouse, keyboard, dan monitor",
+      "Margin, header, dan footer",
+      "Hue, kerning, dan dpi"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Titik, garis, dan bentuk adalah elemen dasar desain. Pilihan lain adalah perangkat keras atau istilah dari topik berbeda."
+  },
+  {
+    "id": "03q1",
+    "bab": "03_warna",
+    "soal": "Mode warna yang tepat untuk desain yang akan dicetak adalah...",
+    "pilihan": [
+      "RGB",
+      "CMYK",
+      "HSV",
+      "Hex"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Cetak memakai tinta sehingga mode CMYK lebih tepat. RGB dipakai untuk layar."
+  },
+  {
+    "id": "03q2",
+    "bab": "03_warna",
+    "soal": "Dua warna yang berseberangan di roda warna disebut warna...",
+    "pilihan": [
+      "Analogus",
+      "Komplementer",
+      "Monokromatik",
+      "Triadik"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Warna komplementer berseberangan di roda warna dan menghasilkan kesan kontras."
+  },
+  {
+    "id": "03q3",
+    "bab": "03_warna",
+    "soal": "Tiga sifat utama warna adalah...",
+    "pilihan": [
+      "Hue, saturation, dan brightness",
+      "Kerning, leading, dan tracking",
+      "Serif, sans-serif, dan script",
+      "Raster, vektor, dan piksel"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Hue adalah corak, saturation adalah kejenuhan, dan brightness adalah tingkat terang gelap."
+  },
+  {
+    "id": "03q4",
+    "bab": "03_warna",
+    "soal": "Teks kuning muda di atas latar putih sulit dibaca karena...",
+    "pilihan": [
+      "Kontras warnanya rendah",
+      "Resolusinya terlalu tinggi",
+      "Mode warnanya CMYK",
+      "Hurufnya vektor"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Kuning muda dan putih sama-sama terang sehingga kontrasnya rendah dan teks sulit terbaca."
+  },
+  {
+    "id": "04q1",
+    "bab": "04_tipografi",
+    "soal": "Jenis huruf yang memiliki kaki atau sirip kecil di ujung garis hurufnya disebut...",
+    "pilihan": [
+      "Serif",
+      "Sans-serif",
+      "Script",
+      "Monospace"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Serif berarti huruf dengan kaki kecil di ujung garis. Sans-serif berarti tanpa kaki."
+  },
+  {
+    "id": "04q2",
+    "bab": "04_tipografi",
+    "soal": "Jarak antar baris teks dalam tipografi disebut...",
+    "pilihan": [
+      "Kerning",
+      "Leading",
+      "Tracking",
+      "Margin"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Leading adalah jarak antar baris. Kerning adalah jarak dua huruf tertentu dan tracking adalah jarak antar huruf secara keseluruhan."
+  },
+  {
+    "id": "04q3",
+    "bab": "04_tipografi",
+    "soal": "Untuk desain sederhana, jumlah jenis huruf yang umumnya disarankan adalah...",
+    "pilihan": [
+      "Sebanyak mungkin agar menarik",
+      "Sekitar dua sampai tiga",
+      "Minimal delapan",
+      "Tidak boleh lebih dari satu selamanya"
+    ],
+    "jawaban": 1,
+    "penjelasan": "Dua sampai tiga jenis huruf biasanya cukup untuk membuat desain tetap konsisten dan rapi."
+  },
+  {
+    "id": "04q4",
+    "bab": "04_tipografi",
+    "soal": "Tujuan utama hierarki tipografi adalah...",
+    "pilihan": [
+      "Membuat pembaca tahu bagian mana yang dibaca lebih dulu",
+      "Membuat semua teks berukuran sama",
+      "Menghemat tinta printer",
+      "Mengubah mode warna"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Hierarki memakai perbedaan ukuran, ketebalan, dan warna agar urutan baca menjadi jelas."
+  },
+  {
+    "id": "05q1",
+    "bab": "05_tata_letak",
+    "soal": "Fungsi ruang kosong (white space) dalam tata letak adalah...",
+    "pilihan": [
+      "Membantu mata beristirahat dan menonjolkan elemen penting",
+      "Tanda bahwa desain belum selesai",
+      "Wajib diisi dengan gambar",
+      "Mengurangi resolusi gambar"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Ruang kosong membuat desain tidak sesak dan membantu elemen penting lebih terlihat."
+  },
+  {
+    "id": "05q2",
+    "bab": "05_tata_letak",
+    "soal": "Elemen yang saling berhubungan sebaiknya diletakkan...",
+    "pilihan": [
+      "Berjauhan di sudut berbeda",
+      "Secara acak",
+      "Berdekatan",
+      "Di luar margin"
+    ],
+    "jawaban": 2,
+    "penjelasan": "Berdekatan membuat pembaca langsung paham bahwa elemen itu satu kelompok informasi."
+  },
+  {
+    "id": "05q3",
+    "bab": "05_tata_letak",
+    "soal": "Garis bantu berupa kolom dan baris untuk menata elemen secara rapi disebut...",
+    "pilihan": [
+      "Grid",
+      "Layer",
+      "Filter",
+      "Crop"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Grid membantu penempatan elemen agar konsisten dan sejajar."
+  },
+  {
+    "id": "05q4",
+    "bab": "05_tata_letak",
+    "soal": "Pola baca Z dan F menggambarkan...",
+    "pilihan": [
+      "Kecenderungan arah mata saat melihat desain",
+      "Jenis huruf yang dipakai",
+      "Format file gambar",
+      "Mode warna cetak"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Pola Z dan F adalah kecenderungan umum gerakan mata, bukan aturan mutlak."
+  }
+]
